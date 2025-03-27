@@ -5,8 +5,10 @@ This project involves a descriptive analysis of UCW's HR data using AWS cloud se
 
 Project Title
 UCW HR DAP: Workforce and Policy Analysis
+
 Objective
 Conduct a descriptive analysis to uncover patterns, trends, and insights from HR datasets, enabling data-driven decisions.
+
 Dataset
 
 Employees-List: Employee records with application dates and program details.
@@ -22,6 +24,7 @@ Cataloging: Created tables using AWS Glue Data Catalog.
 Visualization: Generated charts and graphs for insights using DataBrew.
 
 Insights and Findings
+
 Popular programs had significantly higher applications.
 Application peaks aligned with academic cycles.
 Financially active departments showed higher payment volumes.
