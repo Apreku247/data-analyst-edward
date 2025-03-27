@@ -48,6 +48,8 @@ Methodology
 
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/22b037b6472981a999c1a3465044b215400fbcf5/image.png)
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/8f8db25482cf00f3ebf7936cc99fbc2df8d7eb91/image.png)
+  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7cf80f39da4b909a78703454a5d13ef4671fe728/image.png)
+  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7cf80f39da4b909a78703454a5d13ef4671fe728/image.png)
   
 - Cataloging: Created tables using AWS Glue Data Catalog.
   
