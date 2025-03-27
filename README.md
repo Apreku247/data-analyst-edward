@@ -32,22 +32,30 @@ Methodology
 
 Insights and Findings
 
-Popular programs had significantly higher applications.
-Application peaks aligned with academic cycles.
-Financially active departments showed higher payment volumes.
-Program length anomalies suggested data entry issues.
+- Popular programs had significantly higher applications.
+  
+- Application peaks aligned with academic cycles.
+  
+- Financially active departments showed higher payment volumes.
+  
+- Program length anomalies suggested data entry issues.
 
 Recommendations
-Standardize program durations.
-Allocate HR resources during peak periods.
-Provide additional support to high-activity departments.
-Maintain data consistency with validation checks.
+
+- Standardize program durations.
+
+- Allocate HR resources during peak periods.
+
+- Provide additional support to high-activity departments.
+
+- Maintain data consistency with validation checks.
 
 Tools and Technologies
-AWS EC2 & S3: Data storage and ingestion
-AWS Glue DataBrew: Profiling, cleaning, visualization
-AWS Glue Data Catalog: Metadata management
-AWS Athena: SQL querying
+
+- AWS EC2 & S3: Data storage and ingestion
+- AWS Glue DataBrew: Profiling, cleaning, visualization
+- AWS Glue Data Catalog: Metadata management
+- AWS Athena: SQL querying
 
 PowerShell: Data transfer automation
 
