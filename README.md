@@ -87,4 +87,5 @@ Enhance Data Quality Management:
 
   - Implement automated validation checks to detect and correct data entry errors, ensuring reliable data for future analysis.
 
+![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/78b5b29e8b6e592f671d3c12a17c65197d3e0e23/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250327-26-286s31.pdf)
 
