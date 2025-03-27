@@ -10,7 +10,14 @@ Project Title
 UCW HR DAP: Workforce and Policy Analysis
 
 Objective
-Conduct a descriptive analysis to uncover patterns, trends, and insights from HR datasets, enabling data-driven decisions.
+The primary objectives of this descriptive analysis are:
+ - To document the end-to-end procedure for ingesting, preparing, and cataloging the Employees-List, Policy-List, and Department-List datasets using AWS cloud services. This process ensures a streamlined and transparent workflow for HR data management.
+   
+ - To profile and understand the datasets’ structure, content, quality, and statistical characteristics. This analysis will provide insights into employee application trends, policy structures, and department-level financial activities.
+   
+ - To generate descriptive summaries and visualizations that illustrate key HR metrics and patterns, supporting evidence-based decision-making at UCW.
+   
+ - To ensure these foundational datasets are cleaned, well-documented via the AWS Glue Data Catalog, and readily available for integration into more complex analyses within UCW's HR Data Analytics Platform (DAP).
 
 Dataset
 
