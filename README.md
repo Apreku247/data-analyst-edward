@@ -12,17 +12,23 @@ Conduct a descriptive analysis to uncover patterns, trends, and insights from HR
 
 Dataset
 
-Employees-List: Employee records with application dates and program details.
-Policy-List: Program names, positions, and durations.
-Department-List: Financial inquiries, payment amounts, and application data.
+- Employees-List: Employee records with application dates and program details.
+  
+- Policy-List: Program names, positions, and durations.
+
+- Department-List: Financial inquiries, payment amounts, and application data.
 
 Methodology
 
-Data Collection: Ingested data from EC2 to S3 using PowerShell.
-Data Profiling: Used AWS Glue DataBrew for structure and quality assessment.
-Data Cleaning: Corrected null values, duplicates, and column errors.
-Cataloging: Created tables using AWS Glue Data Catalog.
-Visualization: Generated charts and graphs for insights using DataBrew.
+- Data Collection: Ingested data from EC2 to S3 using PowerShell.
+  
+- Data Profiling: Used AWS Glue DataBrew for structure and quality assessment.
+  
+- Data Cleaning: Corrected null values, duplicates, and column errors.
+  
+- Cataloging: Created tables using AWS Glue Data Catalog.
+  
+- Visualization: Generated charts and graphs for insights using DataBrew.
 
 Insights and Findings
 
