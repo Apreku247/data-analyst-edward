@@ -1,5 +1,5 @@
 UCW HR Data Analytics Platform: Descriptive Analysis (Project Part 1)
-
+https://github.com/Apreku247/data-analyst-edward/blob/a5c15689406feba505b227e3b7c4c391ee39187e/image.png 
 Project Description
 This project involves a descriptive analysis of UCW's HR data using AWS cloud services. The goal is to summarize key insights from employee data, policy details, and departmental inquiries to support workforce planning and decision-making.
 
