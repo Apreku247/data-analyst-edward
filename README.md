@@ -2,7 +2,7 @@ UCW HR Data Analytics Platform: Descriptive Analysis (Project Part 1)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/a5c15689406feba505b227e3b7c4c391ee39187e/image.png)
 
 Project Description
-This project involves a descriptive analysis of UCW's HR data using AWS cloud services. The goal is to summarize key insights from employee data, policy details, and departmental inquiries to support workforce planning and decision-making.
+This project analyzes HR data from University Canada West (UCW) to gain insights into employee applications, program durations, and departmental financial activities. By examining patterns and trends using AWS cloud services, the goal is to identify areas for improvement in workforce planning, resource allocation, and data management. The findings from this analysis will support UCW in making informed decisions to optimize HR operations and enhance overall efficiency.
 
 Project Title
 UCW HR DAP: Workforce and Policy Analysis
