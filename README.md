@@ -30,6 +30,8 @@ Dataset
 Methodology
 
 - Data Collection: Ingested data from EC2 to S3 using PowerShell. ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/3b360976194350651a8d731e5df70df5c94e9685/image.png)
+![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/317616d2997ba27257f20c1d25d771adbffa921b/image.png)
+
   
 - Data Profiling: Used AWS Glue DataBrew for structure and quality assessment.
   
