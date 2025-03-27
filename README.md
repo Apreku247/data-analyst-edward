@@ -1,4 +1,4 @@
-OKAY SO PLEASE AS PER THE RUBERICS OF MY WORK, PLEASE PROVIDE THE NECESSARY HYPHENS AND BULLETS FOR THIS WORK SO WHEN I COPY AND PASTE IN GITHUB ALL WILL SHOW - - -  -UCW HR Data Analytics Platform: Descriptive Analysis (Project Part 1)
+UCW HR Data Analytics Platform: Descriptive Analysis (Project Part 1)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/a5c15689406feba505b227e3b7c4c391ee39187e/image.png)
 
 Project Description
