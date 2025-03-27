@@ -60,9 +60,12 @@ Tools and Technologies
 PowerShell: Data transfer automation
 
 Deliverables
-Cleaned datasets in CSV and Parquet formats.
-AWS Glue Catalog tables.
-Visual reports using Glue DataBrew.
+
+- Cleaned datasets in CSV and Parquet formats.
+
+- AWS Glue Catalog tables.
+
+- Visual reports using Glue DataBrew.
 
 Summary insights and actionable recommendations.
 
