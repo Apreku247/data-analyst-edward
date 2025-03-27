@@ -47,6 +47,7 @@ Methodology
 - Data Cleaning: Used AWS Glue DataBrew for Correcting null values, duplicates, and column errors.
 
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/22b037b6472981a999c1a3465044b215400fbcf5/image.png)
+  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/22b037b6472981a999c1a3465044b215400fbcf5/image.png)
   
 - Cataloging: Created tables using AWS Glue Data Catalog.
   
