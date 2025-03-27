@@ -41,6 +41,7 @@ Methodology
 -
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/b0cd36a03fd272fc9ee0236ed828176a9d647240/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/b4bad0eceb74990f6ee750c586e42da8b7ad716c/image.png)
+![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/42778867595daaeb8202bba9175b8691d34d53d9/image.png)
 
   
 - Data Cleaning: Corrected null values, duplicates, and column errors.
