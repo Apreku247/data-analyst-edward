@@ -34,6 +34,7 @@ Methodology
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/317616d2997ba27257f20c1d25d771adbffa921b/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/cdfe750805af6c086f95b4fa4e25b331dbfcaf8c/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/3736fb70f5fd4c33590eda439c5b081bc9acb6ac/image.png)
+![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/b8864bf91e149e1c4a95911f59646ce5684041e3/image.png)
  
 - Data Profiling: Used AWS Glue DataBrew for structure and quality assessment.
   
