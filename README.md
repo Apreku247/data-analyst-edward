@@ -102,7 +102,7 @@ PowerShell: Data transfer automation
 
 - Visual reports using Glue DataBrew.
 
-**Summary insights **
+**Summary Insights**
 
 This descriptive analysis of UCW's HR data revealed trends in employee applications, program durations, and departmental financial activities. Key findings include high application volumes in certain programs, application peaks during academic cycles, and increased financial inquiries from specific departments. To address these insights, it is recommended to standardize program durations, allocate resources effectively during peak periods, provide additional support to high-activity departments, and implement automated data validation to enhance data quality and ensure informed decision-making.
 
