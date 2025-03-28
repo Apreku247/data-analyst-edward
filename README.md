@@ -55,7 +55,7 @@ The primary objectives of this descriptive analysis are:
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/345fbfa13ef4f53ddfd0b0942a0cfc1aba03da53/image.png)
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7cf80f39da4b909a78703454a5d13ef4671fe728/image.png)
 
-- **Cataloging: Created tables using AWS Glue Data Catalog**
+- **Cataloging: Created tables using Glue Crawler and AWS Glue Data Catalog**
   
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/4c111623788fed98f3f951c75d93bdd4b83b94ba/image.png)
   
