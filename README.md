@@ -58,6 +58,7 @@ Methodology
 - Summarization/Visualization: Generated charts and graphs for insights using DataBrew.
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/f8cbeea1c2dd07bfa2ef77df69d94150de580cfc/image.png)
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/caae4e6096498b5abc85613e75e113db6fff29fb/image.png)
+ ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7f9bed2dd54fd819453196631debe407f5b6eebe/image.png)
 
 Insights and Findings
 
