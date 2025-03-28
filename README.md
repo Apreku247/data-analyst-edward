@@ -93,8 +93,7 @@ The primary objectives of this descriptive analysis are:
 - AWS Glue DataBrew: Profiling, cleaning, visualization
 - AWS Glue Data Catalog: Metadata management
 - AWS Athena: SQL querying
-
-PowerShell: Data transfer automation
+- PowerShell: Data transfer automation
 
 **Deliverables**
 
