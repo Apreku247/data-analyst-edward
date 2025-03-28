@@ -23,7 +23,7 @@ The primary objectives of this descriptive analysis are:
    
  - To ensure these foundational datasets are cleaned, well-documented via the AWS Glue Data Catalog, and readily available for integration into more complex analyses within UCW's HR Data Analytics Platform (DAP).
 
-Dataset
+**Dataset**
 
 - Employees-List: Employee records with application dates and program details.
   
@@ -31,7 +31,7 @@ Dataset
 
 - Department-List: Financial inquiries, payment amounts, and application data.
 
-Methodology
+**Methodology**
 
 - Data Collection: Ingested data from EC2 to S3 using PowerShell.
 - 
@@ -65,7 +65,7 @@ Methodology
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7f9bed2dd54fd819453196631debe407f5b6eebe/image.png)
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/25c4407de7e46af6e1585ce8d339a21e16b93fdb/image.png)
 
-Insights and Findings
+**Insights and Findings**
 
 - Popular programs had significantly higher applications.
   
@@ -75,7 +75,7 @@ Insights and Findings
   
 - Program length anomalies suggested data entry issues.
 
-Recommendations
+**Recommendations**
 
 - Standardize program durations.
 
@@ -85,7 +85,7 @@ Recommendations
 
 - Maintain data consistency with validation checks.
 
-Tools and Technologies
+**Tools and Technologies**
 
 - AWS EC2 & S3: Data storage and ingestion
 - AWS Glue DataBrew: Profiling, cleaning, visualization
@@ -94,7 +94,7 @@ Tools and Technologies
 
 PowerShell: Data transfer automation
 
-Deliverables
+**Deliverables**
 
 - Cleaned datasets in CSV and Parquet formats.
 
@@ -102,11 +102,11 @@ Deliverables
 
 - Visual reports using Glue DataBrew.
 
-Summary insights 
+**Summary insights **
 
 This descriptive analysis of UCW's HR data revealed trends in employee applications, program durations, and departmental financial activities. Key findings include high application volumes in certain programs, application peaks during academic cycles, and increased financial inquiries from specific departments. To address these insights, it is recommended to standardize program durations, allocate resources effectively during peak periods, provide additional support to high-activity departments, and implement automated data validation to enhance data quality and ensure informed decision-making.
 
-Recommendations.
+**Recommendations**
 
 Standardize Program Durations:
 
