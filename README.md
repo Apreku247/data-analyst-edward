@@ -33,7 +33,7 @@ The primary objectives of this descriptive analysis are:
 
 **Methodology**
 
-- Data Collection: Ingested data from EC2 to S3 using PowerShell.
+- **Data Collection: Ingested data from EC2 to S3 using PowerShell**
 
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/3b360976194350651a8d731e5df70df5c94e9685/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/317616d2997ba27257f20c1d25d771adbffa921b/image.png)
@@ -41,25 +41,27 @@ The primary objectives of this descriptive analysis are:
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/3736fb70f5fd4c33590eda439c5b081bc9acb6ac/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/b8864bf91e149e1c4a95911f59646ce5684041e3/image.png)
  
-- Data Profiling: Used AWS Glue DataBrew for structure and quality assessment.
--
+- **Data Profiling: Used AWS Glue DataBrew for structure and quality assessment**
+
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/b0cd36a03fd272fc9ee0236ed828176a9d647240/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/b4bad0eceb74990f6ee750c586e42da8b7ad716c/image.png)
 ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/42778867595daaeb8202bba9175b8691d34d53d9/image.png)
 
   
-- Data Cleaning: Used AWS Glue DataBrew for Correcting null values, duplicates, and column errors.
+- **Data Cleaning: Used AWS Glue DataBrew for Correcting null values, duplicates, and column errors**
 
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/22b037b6472981a999c1a3465044b215400fbcf5/image.png)
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/8f8db25482cf00f3ebf7936cc99fbc2df8d7eb91/image.png)
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/345fbfa13ef4f53ddfd0b0942a0cfc1aba03da53/image.png)
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7cf80f39da4b909a78703454a5d13ef4671fe728/image.png)
 
-- Cataloging: Created tables using AWS Glue Data Catalog.
+- **Cataloging: Created tables using AWS Glue Data Catalog**
+  
   ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/4c111623788fed98f3f951c75d93bdd4b83b94ba/image.png)
   
   
-- Summarization/Visualization: Generated charts and graphs for insights using DataBrew.
+- **Summarization/Visualization: Generated charts and graphs for insights using DataBrew.**
+  
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/f8cbeea1c2dd07bfa2ef77df69d94150de580cfc/image.png)
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/caae4e6096498b5abc85613e75e113db6fff29fb/image.png)
  ![Alt Text](https://github.com/Apreku247/data-analyst-edward/blob/7f9bed2dd54fd819453196631debe407f5b6eebe/image.png)
